@@ -4,6 +4,7 @@ from discord.ext import commands
 import asyncio
 import datetime
 import random
+import os
 from discord import Game
 from time import localtime, strftime
 strftime("%Y-%m-%d %H:%M:%S", localtime())
