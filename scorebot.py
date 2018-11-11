@@ -36,27 +36,4 @@ async def on_message(message):
             await client.send_message(message.channel, 'The server time now is: **' + wholetime + resttime + 'PM**')
         else:
             await client.send_message(message.channel, 'The server time now is: **' + wholetime + resttime + 'AM**')
-   
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 client.run('NTEwNzY4NDgyMzE3NTAwNDE4.Dshd7w.IbZyxm3LOPpPvyQRLbr7ffYH9k8')
